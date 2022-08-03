@@ -1,0 +1,9 @@
+D:\DotNET\API\ECommerce.DAL\bin\Debug\netstandard2.0\ECommerce.DAL.deps.json
+D:\DotNET\API\ECommerce.DAL\bin\Debug\netstandard2.0\ECommerce.DAL.dll
+D:\DotNET\API\ECommerce.DAL\obj\Debug\netstandard2.0\ECommerce.DAL.csprojAssemblyReference.cache
+D:\DotNET\API\ECommerce.DAL\obj\Debug\netstandard2.0\ECommerce.DAL.AssemblyInfoInputs.cache
+D:\DotNET\API\ECommerce.DAL\obj\Debug\netstandard2.0\ECommerce.DAL.AssemblyInfo.cs
+D:\DotNET\API\ECommerce.DAL\bin\Debug\netstandard2.0\ECommerce.DAL.pdb
+D:\DotNET\API\ECommerce.DAL\obj\Debug\netstandard2.0\ECommerce.DAL.dll
+D:\DotNET\API\ECommerce.DAL\obj\Debug\netstandard2.0\ECommerce.DAL.pdb
+D:\DotNET\API\ECommerce.DAL\obj\Debug\netstandard2.0\ECommerce.DAL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+D:\DotNET\API\ECommerce.BLL\bin\Debug\netstandard2.0\ECommerce.BLL.deps.json
+D:\DotNET\API\ECommerce.BLL\bin\Debug\netstandard2.0\ECommerce.BLL.dll
+D:\DotNET\API\ECommerce.BLL\bin\Debug\netstandard2.0\ECommerce.BLL.pdb
+D:\DotNET\API\ECommerce.BLL\bin\Debug\netstandard2.0\ECommerce.DAL.dll
+D:\DotNET\API\ECommerce.BLL\bin\Debug\netstandard2.0\ECommerce.DAL.pdb
+D:\DotNET\API\ECommerce.BLL\obj\Debug\netstandard2.0\ECommerce.BLL.csprojAssemblyReference.cache
+D:\DotNET\API\ECommerce.BLL\obj\Debug\netstandard2.0\ECommerce.BLL.csproj.CoreCompileInputs.cache
+D:\DotNET\API\ECommerce.BLL\obj\Debug\netstandard2.0\ECommerce.BLL.AssemblyInfoInputs.cache
+D:\DotNET\API\ECommerce.BLL\obj\Debug\netstandard2.0\ECommerce.BLL.AssemblyInfo.cs
+D:\DotNET\API\ECommerce.BLL\obj\Debug\netstandard2.0\ECommerce.BLL.csproj.CopyComplete
+D:\DotNET\API\ECommerce.BLL\obj\Debug\netstandard2.0\ECommerce.BLL.dll
+D:\DotNET\API\ECommerce.BLL\obj\Debug\netstandard2.0\ECommerce.BLL.pdb
